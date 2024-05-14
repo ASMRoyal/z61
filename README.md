@@ -1,4 +1,4 @@
-# z61 (release very soon!)
+# z61 (beta is out!)
 ### *z61 is a very powerful spoofer for FiveM*
 
 ## Images
